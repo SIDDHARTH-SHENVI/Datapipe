@@ -1,0 +1,22 @@
+Metadata-Version: 2.2
+Name: datapipe
+Version: 1.0.0
+Summary: A CLI tool for distributed data processing with Redis and PostgreSQL
+Author: Siddharth
+Author-email: siddharthshenvi49@gmail.com
+License: MIT
+Keywords: data-processing,task-queue,cli,distributed
+Requires-Python: >=3.6
+Requires-Dist: redis
+Requires-Dist: python-dotenv
+Requires-Dist: psycopg2-binary
+Requires-Dist: pyyaml
+Requires-Dist: pandas
+Requires-Dist: rich
+Dynamic: author
+Dynamic: author-email
+Dynamic: keywords
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

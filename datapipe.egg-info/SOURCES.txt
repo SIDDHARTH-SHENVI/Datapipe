@@ -1,0 +1,15 @@
+README.md
+setup.py
+datapipe/__init__.py
+datapipe/cli.py
+datapipe/db.py
+datapipe/pipeline.py
+datapipe/processors.py
+datapipe/queue.py
+datapipe/worker.py
+datapipe.egg-info/PKG-INFO
+datapipe.egg-info/SOURCES.txt
+datapipe.egg-info/dependency_links.txt
+datapipe.egg-info/entry_points.txt
+datapipe.egg-info/requires.txt
+datapipe.egg-info/top_level.txt

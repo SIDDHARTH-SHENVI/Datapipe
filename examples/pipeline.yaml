@@ -1,0 +1,14 @@
+name: multi_file_analysis
+steps:
+  - type: read_csv
+    data:
+      path: sales1.csv
+  - type: read_csv
+    data:
+      path: sales2.csv
+  - type: aggregate
+    data:
+      func: "sum"
+  - type: write_csv
+    data:
+      path: output.csv
