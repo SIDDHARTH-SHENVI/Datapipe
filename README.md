@@ -9,4 +9,4 @@ A CLI tool for distributed data processing using Redis and PostgreSQL.
 
 ## Install
 ```bash
-pip install datapipe-resume
+pip install datapipe
